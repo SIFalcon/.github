@@ -1,6 +1,10 @@
+<p align="center">
+<img src="github-header.png">
+</p>
+
 Hello, we are the SECUINFRA Falcon Team. We specialize in DFIR, Threat Intelligence, APT & Malware Research and Compromise Assessment.
 
-🛠️ **We are working on:** Tools and Detection rules
+🛠️ **We are working on:** Analysis tools and Detection rules for Malware and other Threats
 
 📫 **How to reach us:** <p align="center">
 <a href="https://twitter.com/SI_FalconTeam"><img src="https://img.shields.io/twitter/follow/SI_FalconTeam?label=Twitter&style=social" alt="Twitter"></a>
